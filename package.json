@@ -1,0 +1,25 @@
+{
+  "name": "stingcalculator",
+  "version": "1.0.0",
+  "description": "For educational purposes, we make an example in class of how we should use TDD, and using a CI environment on CodeShip",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaNetow/stringCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaNetow/stringCalculator/issues"
+  },
+  "homepage": "https://github.com/RafaNetow/stringCalculator#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
